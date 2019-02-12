@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/2756068/cache-simulator-in-c
+https://stackoverflow.com/questions/23092307/cache-simulator
+https://github.com/theycallmeswift/Direct-Mapped-Cache-Simulation/blob/master/src/sim.c
+
